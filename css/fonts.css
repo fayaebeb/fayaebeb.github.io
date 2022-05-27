@@ -1,0 +1,47 @@
+@font-face {
+    font-family:'Aslam';
+    src:local("Aslam"),
+		url("https://misc.dawateislami.net/fonts/Aslam.ttf");
+}
+
+@font-face {
+    font-family:'Al_Mushaf';
+    src:local("Al_Mushaf"),
+		url("https://misc.dawateislami.net/fonts/Al_Mushaf.ttf");
+}
+@font-face{
+    font-family:ar;
+    src:local("Al_Mushaf"),
+		url("https://misc.dawateislami.net/fonts/Al_Mushaf.ttf");
+}
+
+
+@font-face {
+    font-family:'Al Qalam Quran Majeed Web2_D';
+    src:local("Al Qalam Quran Majeed Web2_D"),
+		url("https://misc.dawateislami.net/fonts/Al Qalam Quran Majeed Web2_D.otf");
+}
+
+@font-face{
+    font-family:Al-Qalam;
+    src:local("Al Qalam Quran Majeed Web2_D"),
+		url("https://misc.dawateislami.net/fonts/Al Qalam Quran Majeed Web2_D.otf");
+}
+@font-face{
+    font-family:'Mehr Nastaliq Web';
+    src:local("Mehr_Nastaliq"),
+                url("https://misc.dawateislami.net/fonts/Mehr Nastaliq Web 3.ttf");
+}
+
+
+@font-face{
+    font-family:'Mehr Nastaliq Web 3';
+    src:local("Mehr Nastaliq Web 3"),
+                url("https://misc.dawateislami.net/fonts/Mehr Nastaliq Web 3.ttf");
+}
+
+@font-face{
+    font-family:Al-Qalam-New;
+    src:local("Al Qalam Quran Majeed Web2_D"),
+		url("../fonts/Al_Qalam_Quran_Majeed_Web2_D_new.html");
+}
